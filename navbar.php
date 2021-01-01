@@ -26,9 +26,9 @@
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ml-auto">
             <a class="nav-item nav-link active" href="index.php" style="margin-top: 9px;">Home <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="#" style="margin-top: 9px;">Pricing</a>
-            <a class="nav-item nav-link" href="#" style="margin-top: 9px;">Features</a>
-            <a class="nav-item nav-link " href="#" style="margin-top: 9px;">About</a>
+            <a class="nav-item nav-link" href="pricing.php" style="margin-top: 9px;">Pricing</a>
+            <a class="nav-item nav-link" href="features.php" style="margin-top: 9px;">Features</a>
+            <a class="nav-item nav-link " href="aboutus.php" style="margin-top: 9px;">About</a>
             <a class="nav-item nav-link " href="profil.php"><img src="img/icons1.png" style="height: 40px"> </a>
         </div>
       </div>
