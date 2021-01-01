@@ -37,6 +37,10 @@ $wisata_lokal = query( "SELECT * FROM wisata_lokal");
       transform: 1;
     }
 
+    .container-card{
+      display:grid;
+      grid-template-columns: 1fr 1fr 1fr;
+    }
     @media(min-width: 500px) {
     .container-card {
         width: 25%;
