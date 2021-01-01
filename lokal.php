@@ -30,7 +30,7 @@ $wisata_lokal = query( "SELECT * FROM wisata_lokal");
       margin-top: 20px;
       box-shadow: 10px 10px 25px black;
       transition: 1s;
-      display: flex;
+      display: grid;
       flex-wrap: wrap;
     }
     .card:hover{
